@@ -12,3 +12,7 @@ run with:
 ```python run.py 3```
 
 for n = 3
+
+tests:
+
+```nosetests```
