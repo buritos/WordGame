@@ -13,6 +13,6 @@ run with:
 
 for n = 3
 
-tests:
+run the tests:
 
-```nosetests```
+`nosetests`
